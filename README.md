@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Mariah
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me: mariamariahqfs@gmail.com
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: I like gaming and streaming
+Desenvolvedora Front-End em formação 💻  
+Focada em HTML, CSS e JavaScript  
+Criando interfaces modernas e interativas 🚀
+Fun fact: Gosto de jogar e streamar no meu tempo livre 🎮
 
 <!---
 itsmariah/itsmariah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
