@@ -49,6 +49,7 @@ Olá! Eu sou a **Mariah** 👋
 
 </p>
 
+## 👾 Contrubuições
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmariah/itsmariah/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsmariah/itsmariah/pacman-output/pacman-contribution-graph.svg?game=pacman">
@@ -57,17 +58,46 @@ Olá! Eu sou a **Mariah** 👋
 
 ###
 
+## 🚀 Atualmente
 
-<img align="center" alt="Cat" width="320" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif">
+- 🔭 Construindo projetos para meu portfólio
+- 🤖 Estudando Inteligência Artificial aplicada ao desenvolvimento
+- 🌱 Aprendendo Kotlin, Go e Arquitetura de Software
+- 💼 Em busca de uma oportunidade de estágio
+
+<p align="center">
+  <img alt="Cat" width="280" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif">
+</p>
+
+## 🖥️ Projetos
+
+### ⭐ SkillUp Dev
+> Plataforma web gamificada voltada ao desenvolvimento de soft skills para desenvolvedores, com desafios interativos e feedback automatizado com apoio de IA.
+
+[![Repositório](https://img.shields.io/badge/Repositório-black?style=for-the-badge&logo=github)](https://github.com/itsmariah/skillupdev) [![Deploy](https://img.shields.io/badge/Ver%20projeto-6B57FF?style=for-the-badge&logo=railway)](https://skillupdev-production.up.railway.app)
+
+
+
+### ✂️ Barbearia Clássica
+> Site institucional para uma barbearia fictícia com página de serviços, galeria e formulário de agendamento online.
+
+[![Repositório](https://img.shields.io/badge/Repositório-black?style=for-the-badge&logo=github)](https://github.com/anitandonato/projeto-aplicacoes-para-internet) [![Deploy](https://img.shields.io/badge/Ver%20projeto-6B57FF?style=for-the-badge&logo=railway)](https://anitandonato.github.io/projeto-aplicacoes-para-internet/)
+
+
+
+### 💰 MoneyTrack
+> Aplicação desenvolvida para organizar e visualizar informações financeiras com foco em usabilidade e clareza visual.
+
+[![Repositório](https://img.shields.io/badge/Repositório-black?style=for-the-badge&logo=github)](https://github.com/itsmariah/moneytrack)
+
 
 ## 🌎 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-mariah-queiroga-508757182/) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mariamariahqfs@gmail.com)
 
-<p align="center">
 
+<h4 align="center">
 "Transformando ideias em código, uma linha por vez."
 
-⭐ Obrigada por visitar meu perfil!
-
-</p>
+✨ Obrigada por visitar meu perfil!
+</h4>
