@@ -62,7 +62,7 @@ Olá! Eu sou a **Mariah** 👋
 
 ## 🌎 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-mariah-queiroga-508757182/) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mariamariahqfs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-mariah-queiroga-508757182/) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mariamariahqfs@gmail.com)
 
 <p align="center">
 
