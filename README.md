@@ -66,7 +66,7 @@ Olá! Eu sou a **Mariah** 👋
 - 💼 Em busca de uma oportunidade de estágio
 
 <p align="center">
-  <img alt="Cat" width="280" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif">
+  <img alt="Cat" width="280" src="assets/cat_matrix.gif">
 </p>
 
 ## 🖥️ Projetos
