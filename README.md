@@ -101,3 +101,9 @@ Olá! Eu sou a **Mariah** 👋
 
 ✨ Obrigada por visitar meu perfil!
 </h4>
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=itsmariah.itsmariah&"  />
+</div>
+
+###
