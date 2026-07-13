@@ -1,6 +1,7 @@
-<p align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/banner_git_mariah_mobile.png">
   <img src="assets/banner_git_mariah.png" alt="Banner da Mariah" width="100%">
-</p>
+</picture>
 
 <h1 align="center">
 Olá, sou Mariah! 👾
@@ -66,7 +67,7 @@ Olá! Eu sou a **Mariah** 👋
 - 💼 Em busca de uma oportunidade de estágio
 
 <p align="center">
-  <img alt="Cat" width="280" src="assets/cat_matrix.gif">
+  <img alt="Cat" width="60%" src="assets/cat_matrix.gif">
 </p>
 
 ## 🖥️ Projetos
