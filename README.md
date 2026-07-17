@@ -71,7 +71,7 @@ Olá! Eu sou a **Mariah** 👋
 ### ⭐ SkillUp Dev
 > Plataforma web gamificada voltada ao desenvolvimento de soft skills para desenvolvedores, com desafios interativos e feedback automatizado com apoio de IA.
 
-[![Repositório](https://img.shields.io/badge/Repositório-black?style=for-the-badge&logo=github)](https://github.com/itsmariah/skillupdev) [![Deploy](https://img.shields.io/badge/Ver%20projeto-6B57FF?style=for-the-badge&logo=railway)](https://skillupdev-production.up.railway.app)
+[![Repositório](https://img.shields.io/badge/Repositório-black?style=for-the-badge&logo=github)](https://github.com/itsmariah/skillupdev) [![Deploy](https://img.shields.io/badge/Ver%20projeto-6B57FF?style=for-the-badge&logo=railway)](https://skillupdev.onrender.com)
 
 
 
@@ -85,7 +85,7 @@ Olá! Eu sou a **Mariah** 👋
 ### 💰 MoneyTrack
 > Aplicação desenvolvida para organizar e visualizar informações financeiras com foco em usabilidade e clareza visual.
 
-[![Repositório](https://img.shields.io/badge/Repositório-black?style=for-the-badge&logo=github)](https://github.com/itsmariah/moneytrack)
+[![Repositório](https://img.shields.io/badge/Repositório-black?style=for-the-badge&logo=github)](https://github.com/itsmariah/moneytrack) [![Deploy](https://img.shields.io/badge/Ver%20projeto-6B57FF?style=for-the-badge&logo=railway)](https://moneytrack-m4dd.vercel.app)
 
 
 ## 🌎 Vamos nos conectar!
